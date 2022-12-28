@@ -29,7 +29,6 @@
      
      </nav>
 <br>
-<div class="Contact">
     <table style="margin-left:0px">
         <tr>
           <td style="background-color: white;margin-left: 30px;"><img style="width: 200px;height: 200px;padding: 20px 20px 20px 20px;" src="img/images-15.jpg"></td>
